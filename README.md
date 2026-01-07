@@ -74,10 +74,10 @@ Hi 👋! My name is Nirmala and I'm a Full Stack Developer, from India 🇮🇳
 <h3 align="left">🌐 Connect With Me</h3>
 
 <div align="left">
-  <a href="mailto:example@gmail.com">
+  <a href="nirmalaramadas23@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/nirmala-ramadas-16b081290">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="YOUR_PORTFOLIO">
