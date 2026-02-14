@@ -100,15 +100,13 @@ Enabled real-time alerts, BLE-based inhaler tracking, and emergency notification
 
 
 
-## 📊 GitHub Analytics
+## 🧠 Technical Strengths
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmalaramadass&theme=tokyonight" height="170"/>
+  <img src="https://raw.githubusercontent.com/Nirmalaramadass/Nirmalaramadass/main/radar.svg" width="500"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmalaramadass&theme=tokyo-night"/>
-</p>
+
 
 
 
