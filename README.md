@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I'm Nirmala Ramadas</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | 💻 Frontend & Backend Specialist | 🎨 UI/UX Designer
+🚀 Full Stack Developer | 🎨 UI/UX Engineer | 🤖 AI Tools Explorer
+
 </h3>
 
 
@@ -13,7 +14,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" height="380"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" height="300"/>
 </div>
 
 <p align="center">
@@ -34,8 +35,6 @@
 👩‍💼 Core Member – 7 Member Startup Team (FewInfos)  
 💻 Strong in Frontend + Backend Architecture  
 🎨 Experienced in Poster Designing & UI/UX Design  
-🏢 1 Month internship experience as  UI/UX Designer  
-👩‍💼 Core Member – 7 Member Startup Team (FewInfos)  
 
 💡 I believe in building systems that are not just functional —  
 but intelligent, scalable, and user-centered.
@@ -103,7 +102,7 @@ Enabled real-time alerts, BLE-based inhaler tracking, and emergency notification
 ## 🧠 Technical Strengths
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nirmalaramadass/Nirmalaramadass/main/radar.svg" width="500"/>
+  <img src="https://raw.githubusercontent.com/Nirmalaramadass/Nirmalaramadass/main/radar.svg" width="550"/>
 </p>
 
 
@@ -132,7 +131,7 @@ Enabled real-time alerts, BLE-based inhaler tracking, and emergency notification
   <a href="mailto:nirmalaramadas23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="linkedin.com/in/nirmalaramadas ">
+  <a href="https://linkedin.com/in/nirmalaramadas">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -149,10 +148,4 @@ Enabled real-time alerts, BLE-based inhaler tracking, and emergency notification
 ⭐ Always Learning | 🚀 Always Building | 🧠 AI-Driven Developer
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nirmalaramadass/Nirmalaramadass/output/github-contribution-grid-snake.svg" />
-</p>
